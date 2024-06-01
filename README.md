@@ -14,6 +14,13 @@ Welcome to **Ultimate UI**! This project showcases a stunning user interface bui
   <img src="https://github.com/Ketan-Verma21/Ultimate-UI/assets/106913278/610345bb-dfba-4cdd-907a-02cffc88d898" alt="Screenshot 1" width="450" />
   <img src="https://github.com/Ketan-Verma21/Ultimate-UI/assets/106913278/b3fe0038-b355-4e6d-a707-26d7ba5353b3" alt="Screenshot 2" width="450"/>
 </div>
+## Video Demo
+
+You can watch a demo of the Ultimate UI app in action below:
+
+[![Ultimate UI Demo](https://img.youtube.com/vi/30ad14fb-0025-4ee2-9ad6-b2f06067f241/0.jpg)](https://github.com/Ketan-Verma21/Ultimate-UI/assets/106913278/30ad14fb-0025-4ee2-9ad6-b2f06067f241)
+
+Alternatively, you can view the video directly [here](https://github.com/Ketan-Verma21/Ultimate-UI/assets/106913278/30ad14fb-0025-4ee2-9ad6-b2f06067f241).
 
 ## Getting Started
 
