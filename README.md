@@ -11,8 +11,8 @@ Welcome to **Ultimate UI**! This project showcases a stunning user interface bui
 ## Screenshots
 
 <div style="display: flex; overflow-x: auto; padding: 10px; gap: 50px;">
-  <img src="https://github.com/Ketan-Verma21/Ultimate-UI/assets/106913278/610345bb-dfba-4cdd-907a-02cffc88d898" alt="Screenshot 1" width="450" height="500" />
-  <img src="https://github.com/Ketan-Verma21/Ultimate-UI/assets/106913278/b3fe0038-b355-4e6d-a707-26d7ba5353b3" alt="Screenshot 2" width="450" height="500"/>
+  <img src="https://github.com/Ketan-Verma21/Ultimate-UI/assets/106913278/610345bb-dfba-4cdd-907a-02cffc88d898" alt="Screenshot 1" width="450" />
+  <img src="https://github.com/Ketan-Verma21/Ultimate-UI/assets/106913278/b3fe0038-b355-4e6d-a707-26d7ba5353b3" alt="Screenshot 2" width="450"/>
 </div>
 
 ## Getting Started
